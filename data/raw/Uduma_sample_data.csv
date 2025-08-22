@@ -1,0 +1,106 @@
+point_name;commune;village;latitude;longitude;installation_date;meter_type;connection_type;status;reading_date;meter_index;revenue_fcfa;recorded_by;notes
+Borne Fontaine Sikasso Centre;Sikasso;Sikasso;11.3176;-5.6756;15/03/2022;Mechanical;Borne Fontaine;active;15/01/2024;47850;9500;Amadou Traoré;
+Borne Fontaine Sikasso Centre;Sikasso;Sikasso;11.3176;-5.6756;15/03/2022;Mechanical;Borne Fontaine;active;15/02/2024;47869;9500;Amadou Traoré;
+Borne Fontaine Sikasso Centre;Sikasso;Sikasso;11.3176;-5.6756;15/03/2022;Mechanical;Borne Fontaine;active;15/03/2024;47889;10000;Amadou Traoré;
+Borne Fontaine Sikasso Centre;Sikasso;Sikasso;11.3176;-5.6756;15/03/2022;Mechanical;Borne Fontaine;active;15/04/2024;47908;9500;Amadou Traoré;
+Borne Fontaine Sikasso Centre;Sikasso;Sikasso;11.3176;-5.6756;15/03/2022;Mechanical;Borne Fontaine;active;15/05/2024;47930;11000;Amadou Traoré;
+Borne Fontaine Sikasso Centre;Sikasso;Sikasso;11.3176;-5.6756;15/03/2022;Mechanical;Borne Fontaine;active;15/06/2024;47948;9000;Amadou Traoré;
+Borne Fontaine Sikasso Centre;Sikasso;Sikasso;11.3176;-5.6756;15/03/2022;Mechanical;Borne Fontaine;active;15/07/2024;47969;10500;Amadou Traoré;
+Connexion Privée Kaboila 1;Kaboila;Kaboila;11.2845;-5.7123;20/11/2021;Digital;Connexion Privée;active;20/01/2024;33980;2500;Fatoumata Keita;
+Connexion Privée Kaboila 1;Kaboila;Kaboila;11.2845;-5.7123;20/11/2021;Digital;Connexion Privée;active;20/02/2024;33985;2500;Fatoumata Keita;
+Connexion Privée Kaboila 1;Kaboila;Kaboila;11.2845;-5.7123;20/11/2021;Digital;Connexion Privée;active;20/03/2024;33991;3000;Fatoumata Keita;
+Connexion Privée Kaboila 1;Kaboila;Kaboila;11.2845;-5.7123;20/11/2021;Digital;Connexion Privée;active;20/04/2024;33996;2500;Fatoumata Keita;
+Connexion Privée Kaboila 1;Kaboila;Kaboila;11.2845;-5.7123;20/11/2021;Digital;Connexion Privée;active;20/05/2024;34002;3000;Fatoumata Keita;
+Connexion Privée Kaboila 1;Kaboila;Kaboila;11.2845;-5.7123;20/11/2021;Digital;Connexion Privée;active;20/06/2024;34007;2500;Fatoumata Keita; 
+Connexion Privée Kaboila 1;Kaboila;Kaboila;11.2845;-5.7123;20/11/2021;Digital;Connexion Privée;active;20/07/2024;34013;3000;Fatoumata Keita;
+Borne Fontaine Pimperna;Pimperna;Pimperna;11.4012;-5.5234;10/01/2023;Smart;Borne Fontaine;active;10/01/2024;15890;13500;Seydou Diarra;
+Borne Fontaine Pimperna;Pimperna;Pimperna;11.4012;-5.5234;10/01/2023;Smart;Borne Fontaine;active;10/02/2024;15917;13500;Seydou Diarra;
+Borne Fontaine Pimperna;Pimperna;Pimperna;11.4012;-5.5234;10/01/2023;Smart;Borne Fontaine;active;10/03/2024;15946;14500;Seydou Diarra;
+Borne Fontaine Pimperna;Pimperna;Pimperna;11.4012;-5.5234;10/01/2023;Smart;Borne Fontaine;maintenance;10/04/2024;15946;0;Seydou Diarra;Pompe en panne
+Borne Fontaine Pimperna;Pimperna;Pimperna;11.4012;-5.5234;10/01/2023;Smart;Borne Fontaine;maintenance;10/05/2024;15948;1000;Seydou Diarra;Réparation partielle
+Borne Fontaine Pimperna;Pimperna;Pimperna;11.4012;-5.5234;10/01/2023;Smart;Borne Fontaine;active;10/06/2024;15984;18000;Seydou Diarra;Remis en service
+Borne Fontaine Pimperna;Pimperna;Pimperna;11.4012;-5.5234;10/01/2023;Smart;Borne Fontaine;active;10/07/2024;16013;14500;Seydou Diarra;
+Connexion Privée Finkolo 2;Finkolo;Finkolo Gare;11.2567;-5.8901;05/08/2020;Mechanical;Connexion Privée;active;25/01/2024;30690;3000;Sekou Coulibaly;
+Connexion Privée Finkolo 2;Finkolo;Finkolo Gare;11.2567;-5.8901;05/08/2020;Mechanical;Connexion Privée;active;25/02/2024;30696;3000;Sekou Coulibaly;
+Connexion Privée Finkolo 2;Finkolo;Finkolo Gare;11.2567;-5.8901;05/08/2020;Mechanical;Connexion Privée;active;25/03/2024;30703;3500;Sekou Coulibaly;
+Connexion Privée Finkolo 2;Finkolo;Finkolo Gare;11.2567;-5.8901;05/08/2020;Mechanical;Connexion Privée;active;25/04/2024;30709;3000;Sekou Coulibaly;
+Connexion Privée Finkolo 2;Finkolo;Finkolo Gare;11.2567;-5.8901;05/08/2020;Mechanical;Connexion Privée;active;25/05/2024;30716;3500;Sekou Coulibaly;
+Connexion Privée Finkolo 2;Finkolo;Finkolo Gare;11.2567;-5.8901;05/08/2020;Mechanical;Connexion Privée;active;25/06/2024;30722;3000;Sekou Coulibaly;
+Connexion Privée Finkolo 2;Finkolo;Finkolo Gare;11.2567;-5.8901;05/08/2020;Mechanical;Connexion Privée;active;25/07/2024;30729;3500;Sekou Coulibaly;
+Borne Fontaine Blendio;Blendio;Blendio Centre;11.3789;-5.4567;22/07/2022;Digital;Borne Fontaine;inactive;30/01/2024;18950;0;Mariam Sidibé;Hors service
+Borne Fontaine Blendio;Blendio;Blendio Centre;11.3789;-5.4567;22/07/2022;Digital;Borne Fontaine;inactive;28/02/2024;18950;0;Mariam Sidibé;Hors service
+Borne Fontaine Blendio;Blendio;Blendio Centre;11.3789;-5.4567;22/07/2022;Digital;Borne Fontaine;inactive;30/03/2024;18952;1000;Mariam Sidibé;Test maintenance
+Borne Fontaine Blendio;Blendio;Blendio Centre;11.3789;-5.4567;22/07/2022;Digital;Borne Fontaine;inactive;30/04/2024;18952;0;Mariam Sidibé;Hors service
+Borne Fontaine Blendio;Blendio;Blendio Centre;11.3789;-5.4567;22/07/2022;Digital;Borne Fontaine;inactive;30/05/2024;18952;0;Mariam Sidibé;Hors service
+Borne Fontaine Blendio;Blendio;Blendio Centre;11.3789;-5.4567;22/07/2022;Digital;Borne Fontaine;inactive;30/06/2024;18952;0;Mariam Sidibé;Hors service
+Borne Fontaine Blendio;Blendio;Blendio Centre;11.3789;-5.4567;22/07/2022;Digital;Borne Fontaine;inactive;30/07/2024;18952;0;Mariam Sidibé;Hors service
+Connexion Privée Yanfolila 3;Yanfolila;Yanfolila;11.1667;-8.1333;12/05/2021;Mechanical;Connexion Privée;active;18/01/2024;23650;2500;Ibrahim Cissé;
+Connexion Privée Yanfolila 3;Yanfolila;Yanfolila;11.1667;-8.1333;12/05/2021;Mechanical;Connexion Privée;active;18/02/2024;23655;2500;Ibrahim Cissé;
+Connexion Privée Yanfolila 3;Yanfolila;Yanfolila;11.1667;-8.1333;12/05/2021;Mechanical;Connexion Privée;active;18/03/2024;23661;3000;Ibrahim Cissé;
+Connexion Privée Yanfolila 3;Yanfolila;Yanfolila;11.1667;-8.1333;12/05/2021;Mechanical;Connexion Privée;active;18/04/2024;23666;2500;Ibrahim Cissé;
+Connexion Privée Yanfolila 3;Yanfolila;Yanfolila;11.1667;-8.1333;12/05/2021;Mechanical;Connexion Privée;active;18/05/2024;23672;3000;Ibrahim Cissé;
+Connexion Privée Yanfolila 3;Yanfolila;Yanfolila;11.1667;-8.1333;12/05/2021;Mechanical;Connexion Privée;active;18/06/2024;23676;2000;Ibrahim Cissé;
+Connexion Privée Yanfolila 3;Yanfolila;Yanfolila;11.1667;-8.1333;12/05/2021;Mechanical;Connexion Privée;active;18/07/2024;23682;3000;Ibrahim Cissé;
+Borne Fontaine Koutiala;Koutiala;Koutiala Centre;12.3833;-5.4667;28/02/2023;Smart;Borne Fontaine;active;05/01/2024;16420;18000;Aicha Doumbia;
+Borne Fontaine Koutiala;Koutiala;Koutiala Centre;12.3833;-5.4667;28/02/2023;Smart;Borne Fontaine;active;05/02/2024;16456;18000;Aicha Doumbia;
+Borne Fontaine Koutiala;Koutiala;Koutiala Centre;12.3833;-5.4667;28/02/2023;Smart;Borne Fontaine;active;05/03/2024;16494;19000;Aicha Doumbia;
+Borne Fontaine Koutiala;Koutiala;Koutiala Centre;12.3833;-5.4667;28/02/2023;Smart;Borne Fontaine;active;05/04/2024;16530;18000;Aicha Doumbia;
+Borne Fontaine Koutiala;Koutiala;Koutiala Centre;12.3833;-5.4667;28/02/2023;Smart;Borne Fontaine;active;05/05/2024;16568;19000;Aicha Doumbia;
+Borne Fontaine Koutiala;Koutiala;Koutiala Centre;12.3833;-5.4667;28/02/2023;Smart;Borne Fontaine;active;05/06/2024;16604;18000;Aicha Doumbia;
+Borne Fontaine Koutiala;Koutiala;Koutiala Centre;12.3833;-5.4667;28/02/2023;Smart;Borne Fontaine;active;05/07/2024;16642;19000;Aicha Doumbia;
+Connexion Privée Garalo 4;Garalo;Garalo;11.5667;-6.1833;10/12/2020;Digital;Connexion Privée;active;12/01/2024;36850;2000;Moussa Diakité;
+Connexion Privée Garalo 4;Garalo;Garalo;11.5667;-6.1833;10/12/2020;Digital;Connexion Privée;active;12/02/2024;36854;2000;Moussa Diakité;
+Connexion Privée Garalo 4;Garalo;Garalo;11.5667;-6.1833;10/12/2020;Digital;Connexion Privée;active;12/03/2024;36859;2500;Moussa Diakité;
+Connexion Privée Garalo 4;Garalo;Garalo;11.5667;-6.1833;10/12/2020;Digital;Connexion Privée;active;12/04/2024;36863;2000;Moussa Diakité;
+Connexion Privée Garalo 4;Garalo;Garalo;11.5667;-6.1833;10/12/2020;Digital;Connexion Privée;active;12/05/2024;36868;2500;Moussa Diakité;
+Connexion Privée Garalo 4;Garalo;Garalo;11.5667;-6.1833;10/12/2020;Digital;Connexion Privée;active;12/06/2024;36872;2000;Moussa Diakité;
+Connexion Privée Garalo 4;Garalo;Garalo;11.5667;-6.1833;10/12/2020;Digital;Connexion Privée;active;12/07/2024;36877;2500;Moussa Diakité;
+Borne Fontaine Bougouni;Bougouni;Bougouni;11.4167;-7.4833;15/06/2023;Smart;Borne Fontaine;active;08/01/2024;12980;24000;Aminata Camara;
+Borne Fontaine Bougouni;Bougouni;Bougouni;11.4167;-7.4833;15/06/2023;Smart;Borne Fontaine;active;08/02/2024;13028;24000;Aminata Camara;
+Borne Fontaine Bougouni;Bougouni;Bougouni;11.4167;-7.4833;15/06/2023;Smart;Borne Fontaine;active;08/03/2024;13078;25000;Aminata Camara;
+Borne Fontaine Bougouni;Bougouni;Bougouni;11.4167;-7.4833;15/06/2023;Smart;Borne Fontaine;active;08/04/2024;13126;24000;Aminata Camara;
+Borne Fontaine Bougouni;Bougouni;Bougouni;11.4167;-7.4833;15/06/2023;Smart;Borne Fontaine;active;08/05/2024;13176;25000;Aminata Camara;
+Borne Fontaine Bougouni;Bougouni;Bougouni;11.4167;-7.4833;15/06/2023;Smart;Borne Fontaine;active;08/06/2024;13224;24000;Aminata Camara;
+Borne Fontaine Bougouni;Bougouni;Bougouni;11.4167;-7.4833;15/06/2023;Smart;Borne Fontaine;active;08/07/2024;13274;25000;Aminata Camara;
+Borne Fontaine Kolondieba;Kolondieba;Kolondieba;11.0833;-6.9;20/10/2022;Mechanical;Borne Fontaine;active;22/01/2024;21750;8000;Bakary Sanogo;
+Borne Fontaine Kolondieba;Kolondieba;Kolondieba;11.0833;-6.9;20/10/2022;Mechanical;Borne Fontaine;active;22/02/2024;21766;8000;Bakary Sanogo;
+Borne Fontaine Kolondieba;Kolondieba;Kolondieba;11.0833;-6.9;20/10/2022;Mechanical;Borne Fontaine;active;22/03/2024;21784;9000;Bakary Sanogo;
+Borne Fontaine Kolondieba;Kolondieba;Kolondieba;11.0833;-6.9;20/10/2022;Mechanical;Borne Fontaine;active;22/04/2024;21800;8000;Bakary Sanogo;
+Borne Fontaine Kolondieba;Kolondieba;Kolondieba;11.0833;-6.9;20/10/2022;Mechanical;Borne Fontaine;active;22/05/2024;21818;9000;Bakary Sanogo;
+Borne Fontaine Kolondieba;Kolondieba;Kolondieba;11.0833;-6.9;20/10/2022;Mechanical;Borne Fontaine;active;22/06/2024;21834;8000;Bakary Sanogo;
+Borne Fontaine Kolondieba;Kolondieba;Kolondieba;11.0833;-6.9;20/10/2022;Mechanical;Borne Fontaine;active;22/07/2024;21852;9000;Bakary Sanogo;
+Connexion Privée Wassoulou 5;Wassoulou;Wassoulou Village;11.2;-7.8;08/03/2021;Digital;Connexion Privée;active;14/01/2024;27920;1500;Hawa Diallo;
+Connexion Privée Wassoulou 5;Wassoulou;Wassoulou Village;11.2;-7.8;08/03/2021;Digital;Connexion Privée;active;14/02/2024;27923;1500;Hawa Diallo;
+Connexion Privée Wassoulou 5;Wassoulou;Wassoulou Village;11.2;-7.8;08/03/2021;Digital;Connexion Privée;active;14/03/2024;27927;2000;Hawa Diallo;
+Connexion Privée Wassoulou 5;Wassoulou;Wassoulou Village;11.2;-7.8;08/03/2021;Digital;Connexion Privée;active;14/04/2024;27930;1500;Hawa Diallo;
+Connexion Privée Wassoulou 5;Wassoulou;Wassoulou Village;11.2;-7.8;08/03/2021;Digital;Connexion Privée;active;14/05/2024;27934;2000;Hawa Diallo;
+Connexion Privée Wassoulou 5;Wassoulou;Wassoulou Village;11.2;-7.8;08/03/2021;Digital;Connexion Privée;active;14/06/2024;27937;1500;Hawa Diallo;
+Connexion Privée Wassoulou 5;Wassoulou;Wassoulou Village;11.2;-7.8;08/03/2021;Digital;Connexion Privée;active;14/07/2024;27941;2000;Hawa Diallo;
+Borne Fontaine Dioila;Dioila;Dioila Centre;12.4833;-6.8;12/09/2023;Smart;Borne Fontaine;active;03/01/2024;14250;22000;Salif Traoré;
+Borne Fontaine Dioila;Dioila;Dioila Centre;12.4833;-6.8;12/09/2023;Smart;Borne Fontaine;active;03/02/2024;14294;22000;Salif Traoré;
+Borne Fontaine Dioila;Dioila;Dioila Centre;12.4833;-6.8;12/09/2023;Smart;Borne Fontaine;active;03/03/2024;14341;23500;Salif Traoré;
+Borne Fontaine Dioila;Dioila;Dioila Centre;12.4833;-6.8;12/09/2023;Smart;Borne Fontaine;active;03/04/2024;14385;22000;Salif Traoré;
+Borne Fontaine Dioila;Dioila;Dioila Centre;12.4833;-6.8;12/09/2023;Smart;Borne Fontaine;active;03/05/2024;14432;23500;Salif Traoré;
+Borne Fontaine Dioila;Dioila;Dioila Centre;12.4833;-6.8;12/09/2023;Smart;Borne Fontaine;active;03/06/2024;14476;22000;Salif Traoré;
+Borne Fontaine Dioila;Dioila;Dioila Centre;12.4833;-6.8;12/09/2023;Smart;Borne Fontaine;active;03/07/2024;14523;23500;Salif Traoré;
+Borne Fontaine Selingué;Selingué;Selingué Barrage;11.6;-8.3333;15/01/2020;Mechanical;Borne Fontaine;active;28/01/2024;45120;11000;Mariam Kone;
+Borne Fontaine Selingué;Selingué;Selingué Barrage;11.6;-8.3333;15/01/2020;Mechanical;Borne Fontaine;active;28/02/2024;45142;11000;Mariam Kone;
+Borne Fontaine Selingué;Selingué;Selingué Barrage;11.6;-8.3333;15/01/2020;Mechanical;Borne Fontaine;active;28/03/2024;45166;12000;Mariam Kone;
+Borne Fontaine Selingué;Selingué;Selingué Barrage;11.6;-8.3333;15/01/2020;Mechanical;Borne Fontaine;active;28/04/2024;45188;11000;Mariam Kone;
+Borne Fontaine Selingué;Selingué;Selingué Barrage;11.6;-8.3333;15/01/2020;Mechanical;Borne Fontaine;active;28/05/2024;45212;12000;Mariam Kone;
+Borne Fontaine Selingué;Selingué;Selingué Barrage;11.6;-8.3333;15/01/2020;Mechanical;Borne Fontaine;active;28/06/2024;45228;8000;Mariam Kone;
+Borne Fontaine Selingué;Selingué;Selingué Barrage;11.6;-8.3333;15/01/2020;Mechanical;Borne Fontaine;active;28/07/2024;45252;12000;Mariam Kone;
+Borne Fontaine Kita;Kita;Kita Centre;13.0333;-9.4833;25/05/2022;Digital;Borne Fontaine;active;06/01/2024;24620;16500;Ousmane Keita;Anomalie compteur possible
+Borne Fontaine Kita;Kita;Kita Centre;13.0333;-9.4833;25/05/2022;Digital;Borne Fontaine;active;06/02/2024;24653;16500;Ousmane Keita;
+Borne Fontaine Kita;Kita;Kita Centre;13.0333;-9.4833;25/05/2022;Digital;Borne Fontaine;active;06/03/2024;24687;17000;Ousmane Keita;
+Borne Fontaine Kita;Kita;Kita Centre;13.0333;-9.4833;25/05/2022;Digital;Borne Fontaine;active;06/04/2024;24720;16500;Ousmane Keita;
+Borne Fontaine Kita;Kita;Kita Centre;13.0333;-9.4833;25/05/2022;Digital;Borne Fontaine;active;06/05/2024;24754;17000;Ousmane Keita;
+Borne Fontaine Kita;Kita;Kita Centre;13.0333;-9.4833;25/05/2022;Digital;Borne Fontaine;active;06/06/2024;24787;16500;Ousmane Keita;
+Borne Fontaine Kita;Kita;Kita Centre;13.0333;-9.4833;25/05/2022;Digital;Borne Fontaine;active;06/07/2024;24750;-8500;Ousmane Keita;Compteur défaillant - relevé impossible
+Borne Fontaine Mandé;Mandé;Mandé Village;12.1;-7.2;30/08/2021;Mechanical;Borne Fontaine;active;16/01/2024;33180;9000;Adama Coulibaly;
+Borne Fontaine Mandé;Mandé;Mandé Village;12.1;-7.2;30/08/2021;Mechanical;Borne Fontaine;active;16/02/2024;33198;9000;Adama Coulibaly;
+Borne Fontaine Mandé;Mandé;Mandé Village;12.1;-7.2;30/08/2021;Mechanical;Borne Fontaine;active;16/03/2024;33218;10000;Adama Coulibaly;
+Borne Fontaine Mandé;Mandé;Mandé Village;12.1;-7.2;30/08/2021;Mechanical;Borne Fontaine;active;16/04/2024;33236;9000;Adama Coulibaly;
+Borne Fontaine Mandé;Mandé;Mandé Village;12.1;-7.2;30/08/2021;Mechanical;Borne Fontaine;active;16/05/2024;33256;10000;Adama Coulibaly;
+Borne Fontaine Mandé;Mandé;Mandé Village;12.1;-7.2;30/08/2021;Mechanical;Borne Fontaine;active;16/06/2024;33274;9000;Adama Coulibaly;
+Borne Fontaine Mandé;Mandé;Mandé Village;12.1;-7.2;30/08/2021;Mechanical;Borne Fontaine;active;16/07/2024;33294;10000;Adama Coulibaly;
